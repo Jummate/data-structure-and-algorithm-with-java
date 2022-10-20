@@ -1,1 +1,1 @@
-
+This repo seeks to keep track of my progress as I journey through Data Structure and Algorithm. I have chosen Java as the preferred language because of the rich APIs and classes it provides. Besides, I wanted something statically typed. Good luck  to me!
